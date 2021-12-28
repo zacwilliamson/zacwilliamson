@@ -1,4 +1,4 @@
-22 Years old aspiring full-stack developer. 
+22 year old aspiring full-stack developer. 
 
 Currently learning HTML5, CSS3 , and JavaScript.
 
