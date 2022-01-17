@@ -6,4 +6,4 @@ Currently learning HTML, CSS, and JavaScript.
 
 Living in the Osa Peninsula of Costa Rica
 
-Reach out to me! zacwilliamson@icloud.com
+Say hi! zacwilliamson@icloud.com
