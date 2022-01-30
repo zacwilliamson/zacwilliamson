@@ -2,7 +2,7 @@
 
 Currently learning HTML, CSS, and JavaScript.
 
-4 months in studying from 0 experience.
+5 months in studying from 0 experience.
 
 Living in the Osa Peninsula of Costa Rica
 
