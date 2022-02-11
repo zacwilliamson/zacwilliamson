@@ -1,6 +1,6 @@
 22-year-old aspiring full-stack developer. 
 
-Currently learning HTML, CSS, and JavaScript.
+Currently learning Ruby.
 
 5 months in studying from 0 experience.
 
