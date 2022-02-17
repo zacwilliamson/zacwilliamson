@@ -1,4 +1,4 @@
-22-year-old
+22-years-old
 
 Currently learning Ruby.
 
