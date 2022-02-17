@@ -1,4 +1,4 @@
-22-year-old aspiring full-stack developer. 
+22-year-old
 
 Currently learning Ruby.
 
