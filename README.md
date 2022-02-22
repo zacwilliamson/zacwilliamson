@@ -6,4 +6,4 @@ Currently learning Ruby.
 
 Living in the Osa Peninsula of Costa Rica
 
-Say hi! zacwilliamson@icloud.com
+zacwilliamson@icloud.com
