@@ -2,7 +2,7 @@
 
 Currently learning Ruby.
 
-6 months in studying from 0 experience.
+7 months in studying from 0 experience.
 
 Living in the Osa Peninsula of Costa Rica
 
