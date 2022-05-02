@@ -1,8 +1,8 @@
 22-years-old
 
-Currently learning Ruby.
+I love to program and learn new things.
 
-8 months in studying from 0 experience.
+Currently studying Ruby.
 
 Living in the Osa Peninsula of Costa Rica
 
