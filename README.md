@@ -1,9 +1,9 @@
 22-years-old
 
-I love to program and learn new things.
+I love to code
 
-Currently studying Ruby.
+Currently learning Ruby
 
-Living in the Osa Peninsula of Costa Rica
+From Virginia, living in Costa Rica
 
 zacwilliamson@icloud.com
