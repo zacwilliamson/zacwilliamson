@@ -1,9 +1,9 @@
 22-years-old
 
-I love to code
+i love to code and learn new things
 
-Currently learning Ruby
+currently learning ruby
 
-From Virginia, living in Costa Rica
+from virginia, living in costa rica
 
-zacwilliamson@icloud.com
+contact: zacwilliamson@icloud.com
