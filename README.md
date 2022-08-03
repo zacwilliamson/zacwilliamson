@@ -1,4 +1,4 @@
-currently learning ruby
+currently learning ruby on rails
 
 from virginia, living in costa rica
 
