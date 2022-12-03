@@ -1,5 +1,11 @@
-currently learning ruby on rails
+## Zac Williamson
 
-from virginia, living in costa rica
+Languages: HTML, CSS, JavaScript, Ruby
 
-contact: zacwilliamson@icloud.com
+Frameworks: Ruby on Rails, Hotwire, Tailwind CSS
+
+Testing: RSpec, Capybara, FactoryBot
+
+Tools: Git, PostgreSQL, VSCode
+
+Contact: zacwilliamson@icloud.com
