@@ -6,6 +6,6 @@ Frameworks: Ruby on Rails, Hotwire, Tailwind CSS
 
 Testing: RSpec, Capybara, FactoryBot
 
-Tools: Git, PostgreSQL, VSCode
+Tools: Git, PostgreSQL, VSCode, NPM, Webpack
 
 Contact: zacwilliamson@icloud.com
