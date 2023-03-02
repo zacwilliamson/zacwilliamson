@@ -4,7 +4,7 @@ Languages: HTML, CSS, JavaScript, Ruby
 
 Frameworks: Ruby on Rails, Hotwire, Tailwind CSS
 
-Testing: RSpec, Capybara, FactoryBot
+Testing: RSpec, Capybara, FactoryBot, Jest
 
 Tools: Git, PostgreSQL, VSCode, NPM, Webpack
 
