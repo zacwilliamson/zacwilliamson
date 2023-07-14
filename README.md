@@ -8,6 +8,6 @@ Testing: RSpec, Capybara, FactoryBot, Jest
 
 Tools: Git, PostgreSQL, VSCode, NPM, Webpack
 
-Currently learning Vue.js
+Currently learning Nuxt.js
 
 Contact: zacwilliamson@icloud.com
